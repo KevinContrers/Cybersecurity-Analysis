@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: DDoS Attack and Network Security Improvement Plan
+# DDoS Attack and Network Security Improvement Plan
 
 ## Scenario
 
